@@ -23,12 +23,6 @@ I contribute to enterprise-level projects using both **traditional** and **low-c
 
 ---
 
-### 📈 GitHub Stats
-
-![Asmae's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AsmaeKh7&show_icons=true&theme=tokyonight)
-
----
-
 ### 🌱 Currently Working On
 
 - Advancing my expertise in Mendix (towards **Expert Certification**)  
