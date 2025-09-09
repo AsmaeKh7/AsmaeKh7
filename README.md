@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Asmae
 
-🚀 **Full Stack Engineer | Mendix Developer | Java & Angular Enthusiast**
+🚀 **Full Stack Engineer | Mendix Developer | Java & React Enthusiast**
 
 ---
 
