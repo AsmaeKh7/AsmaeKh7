@@ -34,8 +34,6 @@ I contribute to enterprise-level projects using both **traditional** and **low-c
 ### 📫 How to Reach Me
 
 - 📧 Email: [k.asmae@outlook.com](mailto:k.asmae@outlook.com)  
-- 💼 LinkedIn: [Asmae Khariji](https://www.linkedin.com/in/asmae-khariji)  
-- 🌍 Portfolio: [Check my work] ()  
 
 ---
 
